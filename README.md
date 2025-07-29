@@ -17,7 +17,7 @@ Login Authentication: A basic login form showcasing front-end validation and UI 
 These projects helped me gain hands-on experience with frontend technologies and version control using Git and GitHub. I managed all my code and submissions in a single GitHub repository named OIBSIP, as per the internship guidelines.
 
 You can view the complete source code for all tasks here:
-GitHub Repository - 
+GitHub Repository - https://github.com/AreebaMajid/OIBSIP
 
 I am thankful to Oasis Infobyte for providing this opportunity to enhance my web development skills and work on real-world projects.
 
@@ -25,6 +25,6 @@ Technologies Used
 HTML5, CSS3, JavaScript (ES6+), Git, GitHub, Visual Studio Code, GitHub Desktop
 
 Connect with Me
-LinkedIn: [Your LinkedIn Profile URL]
-GitHub: [Your GitHub Profile URL]
+LinkedIn: https://www.linkedin.com/in/areeba-majid-932b03375/
+GitHub: 
 
