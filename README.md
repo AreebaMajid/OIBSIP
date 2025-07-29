@@ -26,5 +26,5 @@ HTML5, CSS3, JavaScript (ES6+), Git, GitHub, Visual Studio Code, GitHub Desktop
 
 Connect with Me
 LinkedIn: https://www.linkedin.com/in/areeba-majid-932b03375/
-GitHub: 
+GitHub: https://github.com/areebaMajid
 
